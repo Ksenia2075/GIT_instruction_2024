@@ -95,9 +95,19 @@ git checkout
 ```sh
 git clone https://github.com/Ksenia2075/for_git_instruction.git
 ```
-## 11.
+## 11. Связываем удаленный репозиторий и локальный
+Создаем новый репозиторий на github, затем выполняем следующие команды в терминале
+```sh 
+git remote add origin https://github.com/Ksenia2075/for_git_instruction.git
+git branch -M main
+git push -u origin main
+```
 
-## 12.
+## 12. Загружаем измения с локального репозитория на удаленный
+
+```sh
+git push
+```
 
 
 
