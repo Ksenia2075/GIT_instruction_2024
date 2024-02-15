@@ -131,4 +131,5 @@ git pull
 
 Полезные ссылки:
 1. [Документация Git](https://git-scm.com/docs/git "Всплывающая подсказка")
-2. (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+2. (https://habr.com/ru/companies/ruvds/articles/599929/)
+3. (https://htmlacademy.ru/blog/git/git-basic-commands?ysclid=lsn3rj4hbd302644927)
